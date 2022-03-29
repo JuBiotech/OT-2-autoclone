@@ -1,6 +1,6 @@
 ## Supplement-to-Müller-et-al.-2022
 
-# Accelerated strain construction and characterization of _C. glutamicum_ protein secretion by laboratory automation
+__Accelerated strain construction and characterization of _C. glutamicum_ protein secretion by laboratory automation__
 
 Carolin Müller<sup>1, 2</sup>, Patrick J. Bakkes<sup>1</sup>, Patrick Lenz<sup>3</sup>, Vera Waffenschmidt<sup>1</sup>, Laura M. Helleckes<sup>1, 2</sup>, Karl-Erich Jaeger<sup>1, 3</sup>, Wolfgang Wiechert<sup>1, 4</sup>, Andreas Knapp<sup>3, 5</sup>, Roland Freudl<sup>1</sup>, Marco Oldiges<sup>1, 2*</sup> 
 
