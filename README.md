@@ -1,18 +1,18 @@
-# Supplement-to-Müller-et-al.-2022
+## Supplement-to-Müller-et-al.-2022
 
 Accelerated strain construction and characterization of C. glutamicum protein secretion by laboratory automation
 
-Carolin Müller^(1, 2), Patrick J. Bakkes1, Patrick Lenz3, Vera Waffenschmidt1, Laura M. Helleckes1, 2, Karl-Erich Jaeger1, 3, Wolfgang Wiechert 1, 4, Andreas Knapp3, 5, Roland Freudl1, Marco Oldiges1, 2* 
+Carolin Müller<sup>1, 2</sup>, Patrick J. Bakkes<sup>1</sup>, Patrick Lenz<sup>3</sup>, Vera Waffenschmidt<sup>1</sup>, Laura M. Helleckes<sup>1, 2</sup>, Karl-Erich Jaeger<sup>1, 3</sup>, Wolfgang Wiechert<sup>1, 4</sup>, Andreas Knapp<sup>3, 5</sup>, Roland Freudl<sup>1</sup>, Marco Oldiges<sup>1, 2</sup>* 
 
-^1 Institute of Bio- and Geosciences IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
-2 Institute of Biotechnology, RWTH Aachen University, 52062 Aachen, Germany
-3 Institute of Molecular Enzyme Technology, Heinrich Heine University Düsseldorf, Forschungszentrum Jülich, 52425 Jülich, Germany
-4 Computational Systems Biotechnology (AVT.CSB), RWTH Aachen University, 52062 Aachen, Germany
-5 Present address: Castrol Germany GmbH, 41179 Mönchengladbach, Germany
+<sup>1</sup> Institute of Bio- and Geosciences IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
+<sup>2</sup> Institute of Biotechnology, RWTH Aachen University, 52062 Aachen, Germany
+<sup>3</sup> Institute of Molecular Enzyme Technology, Heinrich Heine University Düsseldorf, Forschungszentrum Jülich, 52425 Jülich, Germany
+<sup>4</sup> Computational Systems Biotechnology (AVT.CSB), RWTH Aachen University, 52062 Aachen, Germany
+<sup>5</sup> Present address: Castrol Germany GmbH, 41179 Mönchengladbach, Germany
 * Correspondence: m.oldiges@fz-juelich.de
 
 
-# OT-2-autoclone
+## OT-2-autoclone
 
 This is a repository for Opentrons OT-2 molecular biology protocols written with the OT-2 Python Protocol API Version 2.
 
